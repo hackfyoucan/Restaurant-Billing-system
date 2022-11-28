@@ -1,11 +1,6 @@
-# RestaurentBillingSystem
-# Required modules
-<ul>
-  <li>tkintern</li>
-  <li>datetime</li>
-  <li>InvoiceGenerator</li>
-  <li>random</li>
-</ul>
+# RestaurantBillingSystem
 
+
+# UI for restaurant Billing system
 <img src='UI.png'/>
 
