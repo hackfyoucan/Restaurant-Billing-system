@@ -3,11 +3,15 @@
 
 # UI for restaurant Billing system
 <img src='UI.png'/>
-*select the dishes you want. 
-*Press the total button to see the total amount to be paid.
-*Enter your name and phone number.
-*Press the place order button.  
-*Bill will be generated.
+<ul>
+  <li>select the dishes you want.</li> 
+  <li>Press the total button to see the total amount to be paid.</li>
+  <li>Enter your name and phone number.</li>
+  <li>Press the place order button.</li>  
+  <li>Bill will be generated.</li>
+</ul>
 <img src='UI2.png'/>
-*Bill generated
+<ul>
+<li>Bill generated</li>
+</ul>
 <img src='Bill.png'/>
